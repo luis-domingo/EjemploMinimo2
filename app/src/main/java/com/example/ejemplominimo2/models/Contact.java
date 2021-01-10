@@ -1,3 +1,4 @@
+package com.example.ejemplominimo2.models;
 
 public class Contact {
 

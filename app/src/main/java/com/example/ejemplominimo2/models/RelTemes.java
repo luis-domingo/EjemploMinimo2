@@ -1,3 +1,4 @@
+package com.example.ejemplominimo2.models;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
